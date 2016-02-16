@@ -1,0 +1,11 @@
+commit 35aa14e51ccfcdf7b74285acd98d4da928f8527e
+Author: max <redhook668@gmail.com>
+Date:   Tue Feb 16 16:46:16 2016 +0300
+
+    Add status.txt
+
+commit 3fe88fbe5c3757da5afd5cc8dd970db383d20872
+Author: max <redhook668@gmail.com>
+Date:   Tue Feb 16 16:45:10 2016 +0300
+
+    Add .gitignore
